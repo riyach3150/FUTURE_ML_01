@@ -27,3 +27,6 @@
    * Optimize inventory
    * Improve revenue planning
    * Reduce stock shortages
+
+🔗 [Live Demo](https://futureml01-ixkfegdve5xk4kjsyxescb.streamlit.app/)  
+💻 [GitHub Code](https://github.com/riyach3150/FUTURE_ML_01)
