@@ -1,4 +1,5 @@
 📊 SALES & DEMAND FORECASTING USING MACHINE LEARNING
+
  Time-Series Analysis | Regression Modeling | Business Forecasting
 
 📌 About This Project:-
@@ -9,9 +10,11 @@
   * Performed data cleaning, feature extraction, and trend analysis.
   * Evaluated model performance using standard error metrics.
   * Deployed the model as an interactive web application using Streamlit.
+
   The objective of this project was to demonstrate how machine learning can transform historical sales data into actionable business           insights for better planning and decision-making.
 
 🔹 Dataset Description:-
+
    The dataset consists of historical monthly sales data containing:
    * Date – Time period of recorded sales
    * Sales – Total sales amount for that period
@@ -43,6 +46,7 @@
    * Model can assist retail businesses in proactive inventory and revenue planning.
 
 🔹 Business Impact:-
+
    This forecasting model helps businesses:
    * Predict demand
    * Optimize inventory
