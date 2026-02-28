@@ -4,11 +4,11 @@
   This project builds a regression-based forecasting model to predict future monthly sales using historical data.
 
 🔹 Key Features Implemented:
-  ✔ Data Cleaning & Missing Value Handling
-  ✔ Time-Based Feature Engineering
-  ✔ Regression Forecasting Model
-  ✔ Model Evaluation (MAE & RMSE)
-  ✔ Business-Friendly Forecast Visualizations
+  * Data Cleaning & Missing Value Handling
+  * Time-Based Feature Engineering
+  * Regression Forecasting Model
+  * Model Evaluation (MAE & RMSE)
+  * Business-Friendly Forecast Visualizations
 
 🔹 Technologies Used:
    * Python
