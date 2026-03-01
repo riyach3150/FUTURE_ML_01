@@ -19,7 +19,8 @@ The model is designed to:
 The dataset consists of 9,994 historical monthly sales records containing:
   * Date (Time period of sales)
   * Sales (Total revenue for the month)
-Data preprocessing steps included:
+
+ Data preprocessing steps included:
   * Date formatting
   * Handling missing values
   * Feature extraction from time variables
@@ -33,7 +34,7 @@ Data preprocessing steps included:
    * Google Colab
 
 ## 🔗 Model Development
-   * The forecasting system includes:
+   The forecasting system includes:
    * Regression-based time series modeling
    * Feature engineering
    * Model training and evaluation
@@ -41,8 +42,10 @@ Data preprocessing steps included:
 
 ## 🔗 Evaluation Metrics
  The model performance was measured using:
-     * Mean Absolute Error (MAE) - 12211.03681444415
-     * Root Mean Squared Error (RMSE) - 17043.04236436275
+ 
+   * Mean Absolute Error (MAE) - 12211.03681444415
+   * Root Mean Squared Error (RMSE) - 17043.04236436275
+
  These metrics help assess prediction accuracy and reliability.
 
 ## 🔗 Deployment
